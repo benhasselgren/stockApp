@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "serve": "http-server ./www/ -o -c 1 -a localhost"
+  }
+}
